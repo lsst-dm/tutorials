@@ -1,0 +1,10 @@
+TTYPE,TFORM,TDISP,TUNIT
+Name,      A10,   A10,     ""
+RA,        D,     F11.7,   Deg 
+Dec,       D,     F11.7,   Deg 
+T_eff,     E,     F5.2,    10^3*K
+V_mag,     E,     F6.3,    mag 
+B_mag,     E,     F6.3,    mag 
+Amplitude, E,     F5.4,    mag
+Period,    E,     F5.1,    s
+Mult_per,  L,     L1,      ""
